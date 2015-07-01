@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+}
+
+#instapic {
+  margin: 0 auto;
+}
+
+
+
+.instapic {
+  text-align: center;
+  margin: 0 auto; 
+  border-radius: 8px;
+  max-height: 400px;
+  max-width: 400px;
+}
